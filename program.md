@@ -21,6 +21,6 @@ Lectures will be given using Zoom and following the schedule below. All times ar
 
 16:00-17:00 Second and third assignment (Nicola Calonaci, Mattia Alberto Ubertini, and Valerio Piomponi)
 
-## September 19, Friday
+## September 18, Friday
 
 15:00-17:00 Solution of the second and third assignment (Nicola Calonaci, Mattia Alberto Ubertini, and Valerio Piomponi)
